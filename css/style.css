@@ -522,7 +522,7 @@ footer p
         height: 60vh;
     }
 }
-@media(max-width: 835px) and (orientation: landscape)
+@media(max-width: 835px) and (orientation: landscape) and (max-height: 1080)
 {
     .block
     {
