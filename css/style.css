@@ -522,6 +522,13 @@ footer p
         height: 60vh;
     }
 }
+@media(orientation: landscape)
+{
+    .project-block
+    {
+        display: none;
+    }
+}
 @media(max-width: 835px)
 {
     .block
