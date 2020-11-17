@@ -519,10 +519,10 @@ footer p
     }
     header
     {
-        height: 60vh;
+        height: 70vh;
     }
 }
-@media(max-width: 835px) and (orientation: landscape) and (max-height: 1080)
+@media(max-width: 835px)
 {
     .block
     {
